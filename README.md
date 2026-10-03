@@ -1,5 +1,7 @@
 # 📱 Mobile Sales Power BI Dashboard
+## Dashboard Preview
 
+![Mobile Sales Dashboard](./Mobile%20Sales%20Dashboard%20png.jpeg)
 ## 📊 Project Overview
 
 This project is an interactive Mobile Sales Dashboard created using Microsoft Power BI.
